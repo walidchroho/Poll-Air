@@ -8,6 +8,7 @@ Application mobile, sous forme de map pour les particulier et professionnels
 
 ### Contributeurs :
 Anaïs TCHICAYA
+Walid CHROHO
 
 ### Fonctionnalités :  
 
