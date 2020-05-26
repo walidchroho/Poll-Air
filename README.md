@@ -1,18 +1,17 @@
 # Poll-Air
 
-### Vision du projet
+## Vision du projet
 
-Application mobile, sous forme de map pour les particulier et professionnels
+Poll-Air : l’application qui vous aide a qualifier la qualité de l’air que vous respirer ! et a vous emmener loin de toute pollution.
  
 **Slogan** : Partage ton air !  
 
-### Contributeurs :
+## Contributeurs :
 Anaïs TCHICAYA
 Walid CHROHO
 
-### Fonctionnalités :  
+## Fonctionnalités :  
 
-- Map géolocalisation avec des pins des lieux très pollués
-
-- Connexion/ Déconnexion 
-- proposition de trajets verts pour vos déplacement 
+- Offre des indicateurs sur la qualité de l’air 
+- Localise et signale les points ou la pollution est forte 
+- Propose des trajets « vert » pour vos déplacements et activités
